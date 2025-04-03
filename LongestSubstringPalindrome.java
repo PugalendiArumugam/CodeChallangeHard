@@ -2,9 +2,9 @@ package LeetCode;
 
 public class LongestSubstringPalindrome {
     public static void main(String[] args) {
-//        String str = "ABRBADAADAB";
+        String str = "ABRBADAADAB";
 //        String str = "babad";
-        String str = "cbbd";
+//        String str = "cbbd";
         String result = solution(str);
         System.out.println(result);
     }
